@@ -1,0 +1,10 @@
+{
+  "name": "MedLens Edge",
+  "description": "A portable, offline-first diagnostic assistant for remote medical imaging analysis using multimodal AI.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
